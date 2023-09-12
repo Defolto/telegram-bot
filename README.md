@@ -8,3 +8,8 @@
 - db.js эмитация базы данных для хранения задач
 - keyboards.js кнопки выбора действий
 - test.js ручная отправка сообщений в чаты
+
+## Ссылки
+- дока https://telegraf.js.org/classes/Telegraf-1.html
+- примеры https://github.com/feathers-studio/telegraf-docs/tree/master/examples
+- телеграм канал https://t.me/telegrafjs_ru/1
